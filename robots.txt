@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-8tw2g1.koi888.cfd/sitemap.xml
